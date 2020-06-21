@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/stag_h930.mk
+    $(LOCAL_DIR)/aicp_h930.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_h930-userdebug \
-    stag_h930-eng
+    aicp_h930-userdebug \
+    aicp_h930-eng
